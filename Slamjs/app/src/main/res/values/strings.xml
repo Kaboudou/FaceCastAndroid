@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FaceCams</string>
+    <string name="nom">Evenement</string>
+    <string name="type">Type</string>
+    <string name="date">Date</string>
+    <string name="place">Place</string>
+</resources>
